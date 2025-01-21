@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="image/VISION 2035.png">
+  <img src="image/Investment_vision_2035.png">
 </p>
